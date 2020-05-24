@@ -21,7 +21,7 @@
     "protractor": "^4.0.9"
   },
   "scripts": {
-   "start":"service.js",   "pretest": "npm install",
+   "start": "service.js",   "pretest": "npm install",
     "test": "karma start karma.conf.js",
     "test-single-run": "karma start karma.conf.js --single-run"
   },
