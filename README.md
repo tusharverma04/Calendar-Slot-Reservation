@@ -36,9 +36,3 @@ Load bootstrap css and angular-reservation.min.css in your index.html.
 <link rel="stylesheet" href="bower_components/angular-reservation/dist/angular-reservation.min.css">
 ```
 
-
-##### Single run test
-Execute `npm run test-single-run`
-
-##### Watch for source code and execute tests each time source code changes
-Execute `npm run test`
